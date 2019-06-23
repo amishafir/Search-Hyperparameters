@@ -7,5 +7,5 @@ Search Hyperparameters for Deep Learning Models
 4. Tune Network Weight Initialization
 5. Tune the Neuron Activation Function
 6. Tune Dropout Regularization
-7. Tune the Number of Neurons in the Hidden Layer
+7. Tune the Number of Neurons in the Hidden Layer 
 
